@@ -6,9 +6,9 @@ class MyWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 200,
-      width: 200,
-      color: Colors.green,
+      height: 500,
+      width: 500,
+      color: Colors.cyan,
     );
   }
 }
