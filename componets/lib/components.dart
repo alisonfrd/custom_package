@@ -8,7 +8,7 @@ class MyWidget extends StatelessWidget {
     return Container(
       height: 100,
       width: 100,
-      color: Colors.red,
+      color: Colors.cyan,
     );
   }
 }
